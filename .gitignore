@@ -1,0 +1,22 @@
+# Build directories
+build/
+output/
+
+# IDE settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (too large for git)
+*.weights
+
+# Video files
+*.mp4
+*.avi
+
+# Other
+*.o
+*.out
